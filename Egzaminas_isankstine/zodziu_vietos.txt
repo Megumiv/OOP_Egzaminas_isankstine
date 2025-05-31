@@ -1,0 +1,170 @@
+Žodžių, pasikartojusių dažniau nei 1 kartą, vietų sąrašas (kuriose jis teksto eilutėse):
+-------------------|-------------------|--------------------------------------------------
+aldonas              pasirodė eilutėse:  80 
+antavilių           pasirodė eilutėse:  59 64 
+apie                 pasirodė eilutėse:  1 3 40 116 
+apskrities           pasirodė eilutėse:  35 105 
+apskritis            pasirodė eilutėse:  14 
+archiveorg           pasirodė eilutėse:  123 128 132 
+archyvuota           pasirodė eilutėse:  93 111 112 123 128 132 
+atodanga             pasirodė eilutėse:  48 
+atstovybės          pasirodė eilutėse:  35 
+auga                 pasirodė eilutėse:  64 
+augavietė           pasirodė eilutėse:  66 
+aukštumos           pasirodė eilutėse:  48 
+aukščiausių       pasirodė eilutėse:  64 119 
+baltijos             pasirodė eilutėse:  43 48 
+bei                  pasirodė eilutėse:  59 
+būna                pasirodė eilutėse:  73 75 
+c                    pasirodė eilutėse:  69 71 73 
+centras              pasirodė eilutėse:  35 
+centrinė            pasirodė eilutėse:  48 99 101 
+centro               pasirodė eilutėse:  43 125 
+dalis                pasirodė eilutėse:  48 59 
+daugiausia           pasirodė eilutėse:  48 64 
+departamentas        pasirodė eilutėse:  89 104 105 106 
+duomenys             pasirodė eilutėse:  77 98 99 101 104 
+enciklopedija        pasirodė eilutėse:  86 87 100 102 103 
+enciklopedijų       pasirodė eilutėse:  80 84 86 87 100 102 103 
+ežerai              pasirodė eilutėse:  59 
+ežeras              pasirodė eilutėse:  59 
+ežerų              pasirodė eilutėse:  59 
+forma                pasirodė eilutėse:  40 
+gimine               pasirodė eilutėse:  40 
+gyvenamosios         pasirodė eilutėse:  99 101 104 105 
+gyventojai           pasirodė eilutėse:  105 106 
+gyventojų           pasirodė eilutėse:  18 98 99 101 104 106 107 
+i                    pasirodė eilutėse:  87 90 
+iaurės              pasirodė eilutėse:  48 61 
+institutas           pasirodė eilutėse:  80 84 85 86 87 102 
+intakas              pasirodė eilutėse:  48 55 
+ir                   pasirodė eilutėse:  6 35 40 43 48 59 64 66 69 75 80 84 86 87 99 102 105 125 
+isbn                 pasirodė eilutėse:  80 110 
+iš                  pasirodė eilutėse:  1 40 55 85 93 111 112 123 128 132 
+jau                  pasirodė eilutėse:  40 95 
+kad                  pasirodė eilutėse:  40 
+kaimo                pasirodė eilutėse:  99 101 104 
+kaip                 pasirodė eilutėse:  40 75 
+kalboje              pasirodė eilutėse:  40 
+kalbos               pasirodė eilutėse:  40 85 
+kalvynas             pasirodė eilutėse:  52 
+kaunas               pasirodė eilutėse:  83 98 
+keletas              pasirodė eilutėse:  55 59 
+kitur                pasirodė eilutėse:  59 75 
+klimatas             pasirodė eilutėse:  68 69 88 
+km                   pasirodė eilutėse:  19 43 48 
+kopija               pasirodė eilutėse:  93 111 112 123 128 132 
+kt                   pasirodė eilutėse:  59 64 66 
+kur                  pasirodė eilutėse:  59 64 85 
+kuri                 pasirodė eilutėse:  40 
+kyla                 pasirodė eilutėse:  48 
+leidimas             pasirodė eilutėse:  80 84 
+leidybos             pasirodė eilutėse:  80 84 86 87 102 
+leidžiasi           pasirodė eilutėse:  48 
+lenk                 pasirodė eilutėse:  33 90 
+liepa                pasirodė eilutėse:  66 
+lietuva              pasirodė eilutėse:  13 87 
+lietuviškoji        pasirodė eilutėse:  100 102 
+lietuvių            pasirodė eilutėse:  85 86 
+lietuvoje            pasirodė eilutėse:  43 75 
+lietuvos             pasirodė eilutėse:  3 13 35 40 64 83 84 89 98 99 101 103 104 106 
+m                    pasirodė eilutėse:  6 16 35 37 40 50 77 98 132 
+machine              pasirodė eilutėse:  93 111 112 123 128 132 
+marija               pasirodė eilutėse:  80 
+metų                pasirodė eilutėse:  101 104 106 107 
+miestas              pasirodė eilutėse:  35 40 55 
+miesto               pasirodė eilutėse:  15 24 35 40 45 48 50 55 64 89 117 122 124 
+miestą              pasirodė eilutėse:  40 55 
+miškai              pasirodė eilutėse:  45 64 
+miškas              pasirodė eilutėse:  64 
+miškų              pasirodė eilutėse:  64 
+mokslo               pasirodė eilutėse:  80 84 86 87 102 
+neries               pasirodė eilutėse:  43 48 50 55 
+nerį                pasirodė eilutėse:  55 
+nuo                  pasirodė eilutėse:  35 40 43 77 
+nuoroda              pasirodė eilutėse:  88 89 
+o                    pasirodė eilutėse:  40 50 55 64 69 
+of                   pasirodė eilutėse:  110 112 
+oro                  pasirodė eilutėse:  77 118 
+p                    pasirodė eilutėse:  109 110 
+pakraštyje          pasirodė eilutėse:  59 61 
+pakraštys           pasirodė eilutėse:  48 64 
+pakraščiais        pasirodė eilutėse:  48 55 
+panerių             pasirodė eilutėse:  52 64 
+panorama             pasirodė eilutėse:  6 130 
+parkas               pasirodė eilutėse:  64 
+parko                pasirodė eilutėse:  66 
+pat                  pasirodė eilutėse:  40 48 
+pavilnių            pasirodė eilutėse:  64 66 
+paviršius           pasirodė eilutėse:  47 48 50 
+pilaitės            pasirodė eilutėse:  59 64 
+plyti                pasirodė eilutėse:  48 61 
+prie                 pasirodė eilutėse:  48 59 89 99 
+projekto             pasirodė eilutėse:  93 111 112 123 128 132 
+psl                  pasirodė eilutėse:  81 82 83 84 85 87 90 100 102 103 
+pupkis               pasirodė eilutėse:  80 
+pusę                pasirodė eilutėse:  64 
+ratas                pasirodė eilutėse:  66 
+razmukaitė          pasirodė eilutėse:  80 
+redakcija            pasirodė eilutėse:  100 103 
+respublikos          pasirodė eilutėse:  35 89 104 106 
+riešės             pasirodė eilutėse:  48 59 
+rokantiškių        pasirodė eilutėse:  50 59 
+rus                  pasirodė eilutėse:  33 81 108 
+rytinė              pasirodė eilutėse:  48 59 
+rytų                pasirodė eilutėse:  40 55 75 
+sapiegų             pasirodė eilutėse:  64 66 
+savivaldybė         pasirodė eilutėse:  15 89 
+savivaldybės        pasirodė eilutėse:  35 
+senamiesčio         pasirodė eilutėse:  125 126 
+senoji               pasirodė eilutėse:  40 
+statistikos          pasirodė eilutėse:  89 98 99 101 104 105 106 
+su                   pasirodė eilutėse:  6 40 55 123 127 
+sudaro               pasirodė eilutėse:  45 48 
+surašymo            pasirodė eilutėse:  98 101 104 106 
+t                    pasirodė eilutėse:  82 86 87 90 100 102 103 
+taip                 pasirodė eilutėse:  40 48 
+tarybinė            pasirodė eilutėse:  100 102 
+teka                 pasirodė eilutėse:  55 
+telkšo              pasirodė eilutėse:  59 
+temperatūra         pasirodė eilutėse:  69 77 
+ties                 pasirodė eilutėse:  48 57 
+tikrinta             pasirodė eilutėse:  88 89 
+tsr                  pasirodė eilutėse:  99 101 
+tvenkinys            pasirodė eilutėse:  59 
+upė                 pasirodė eilutėse:  40 55 
+upės                pasirodė eilutėse:  40 48 73 
+utc                  pasirodė eilutėse:  11 12 
+valdyba              pasirodė eilutėse:  99 101 
+vardas               pasirodė eilutėse:  40 
+vardo                pasirodė eilutėse:  40 
+vasaros              pasirodė eilutėse:  12 69 
+verkių              pasirodė eilutėse:  59 64 66 
+vidutinė            pasirodė eilutėse:  69 
+vietos               pasirodė eilutėse:  66 98 
+vietovės            pasirodė eilutėse:  99 101 104 105 
+vilna                pasirodė eilutėse:  33 40 
+vilnia               pasirodė eilutėse:  40 48 55 
+vilniaus             pasirodė eilutėse:  6 14 15 28 35 37 40 61 64 88 89 105 113 118 119 120 122 123 124 125 126 127 128 130 131 
+vilnios              pasirodė eilutėse:  40 43 
+vilnis               pasirodė eilutėse:  40 94 
+vilniuje             pasirodė eilutėse:  32 64 75 94 
+vilnius              pasirodė eilutėse:  3 4 7 9 23 27 35 40 80 84 85 86 87 99 100 101 102 103 104 105 106 111 113 132 
+vilnių              pasirodė eilutėse:  30 116 
+vingio               pasirodė eilutėse:  57 64 66 
+vyrauja              pasirodė eilutėse:  64 
+vyriausioji          pasirodė eilutėse:  100 103 
+vyriška             pasirodė eilutėse:  40 
+wayback              pasirodė eilutėse:  93 111 112 123 128 132 
+wilno                pasirodė eilutėse:  33 40 90 
+xv                   pasirodė eilutėse:  40 86 
+yra                  pasirodė eilutėse:  35 40 43 48 50 52 57 59 64 66 69 
+į                   pasirodė eilutėse:  37 40 43 48 55 94 
+šiaurėje           pasirodė eilutėse:  48 59 
+šiaurės            pasirodė eilutėse:  48 59 64 
+žemėlapis          pasirodė eilutėse:  123 124 125 127 128 
+вильна         pasirodė eilutėse:  33 81 108 
+г                   pasirodė eilutėse:  108 
+империи       pasirodė eilutėse:  82 108 
+оссийской   pasirodė eilutėse:  82 108 
+словарь       pasirodė eilutėse:  81 82 
