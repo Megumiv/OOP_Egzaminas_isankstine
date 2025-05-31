@@ -1,6 +1,6 @@
 # OOP_Egzaminas_isankstine
 
-Egzamino išankstinė užduotis 
+EGZAMINO IŠANKSTINĖ UŽDUOTIS 
 
 Programa:
 - suskaičiuoja kiek kartų kiekvienas skirtingas žodis pasikartoja tekste;
