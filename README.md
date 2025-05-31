@@ -1,6 +1,6 @@
 # OOP_Egzaminas_isankstine
 
-Programa:
+Egzamino išankstinės užduoties programa:
 - suskaičiuoja kiek kartų kiekvienas skirtingas žodis pasikartoja tekste;
 - išveda skirtingus žodžius, kurie pasikartoja dažniau nei 1 kartą, nurodo kiek kartų pasikartoja;
 - išveda kuriuose teksto eilutėse jie buvo paminėti;
